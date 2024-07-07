@@ -49,6 +49,17 @@ When you log in your default page will be the admin page this is where you confi
 <br />
 
 <p>
+<img src="https://i.imgur.com/sMnpC9p.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, you need to set up your SLA. SLA is the response time to a call, I set up SLA A, SLA B, and SLA C.
+SAL A- is 1 hour 24/7, SLA B- is 3 hours 24/7, SLA C- 8 hours Business hours.
+
+</p>
+
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
